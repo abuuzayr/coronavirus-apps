@@ -26,6 +26,7 @@ Stay safe and remember to wash your hands always.
 | [Coronavirus](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: | 
 | [Johns Hopkins CSSE](https://arcg.is/0fHmTX) | EN | Interactive map and live data | :earth_asia: | [John Hopkins University](https://systems.jhu.edu) from :us: | :x: |  [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases), [NHC](http://www.nhc.gov.cn/yjb/s3578/new_list.shtml) and [DXY](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) | :x: |
 | [Corona Board](http://coronaboard-env.csgy3mxprm.eu-west-1.elasticbeanstalk.com) | EN | Dashboard populated with data extracted and cleaned from WHO reports on a daily basis | :earth_asia: | [Muhammad Samer Sallam](https://my.linkedin.com/in/samer-sallam) :malaysia: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) | :x: |
+| [2019-nCoV Worldwide](https://the2019ncov.com/) | EN | Map, tweets, data, charts and timeline | :earth_asia: | [Robert Anthonie](https://github.com/sorxrob) :philippines: | :x: | [bnonews](https://bnonews.com/index.php/2020/01/timeline-coronavirus-epidemic/), [JHU](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo) | :white_check_mark: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
