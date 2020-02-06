@@ -40,7 +40,7 @@ Public groups with updates about the coronavirus
 | Wuhan 2019 Novel Coronavirus | https://t.me/TheWuhanVirus | :singapore: | :white_check_mark: | EN |
 | SG-Wuhan 2019-nCoV Watchgroup | https://t.me/SGWuhan2019nCoV | :singapore: | :white_check_mark: | EN |
 | SG Wuhan Coronavirus Info Group | https://t.me/SGWuhanCoronaVirusNews | :singapore: | :white_check_mark: | EN |
-| Wuhan Quarantine #nCoV #武汉封城 | https://t.me/wuhanquarantinefrom20200123 | :china: | :white_check_mark: | CN |
+| Wuhan Quarantine #nCoV #武汉封城 | https://t.me/wuhanquarantinefrom20200123 | :cn: | :white_check_mark: | CN |
 
 ## :bird: Twitter
 
