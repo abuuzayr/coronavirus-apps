@@ -16,13 +16,13 @@ Stay safe and remember to wash your hands always.
 
 ## Web applications
 
-| Name | URL | Lang | Summary | For | By | Can subscribe | Sources | Open source |
-| ---- | --- | ---- | ------- | --- | --- | ------------ | ------- | ----------- |
-| CoronaTracker | [:link: Link](https://www.coronatracker.com) | EN, CN (planned) | Location based statistics, news, charts | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world | :x: | [:link: Link](https://www.coronatracker.com/sources) | :white_check_mark: |
-| Coronavirus.app | [:link: Link](https://coronavirus.app) | EN | Map with locations with confirmed cases, location based data charts & statistics | :earth_asia: | [Scriby](https://scriby.ai/) from :taiwan: | :white_check_mark: | Various - Click on **Credits & sources** at the bottom of the app | :x: |
-| the_wuhan_virus | [:link: Link](https://thewuhanvirus.com/) | EN, JP, CN | Maps, news, live data | :earth_asia: | [thebaselab](https://thebaselab.com/) from :hong_kong: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | :x: |
-| SG Wuhan | [:link: Link](https://sgwuhan.xose.net) | EN | Map for Singapore of locations where infections were detected/traced | :singapore: | [ottokyu](https://twitter.com/ottokyu) | :x: | [Ministry of Health](https://www.moh.gov.sg/) |
-| Coronavirus | [:link: Link](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: |
+| Name & link | Lang | Summary | For | By | Can subscribe | Sources | Open source |
+| ----------- | ---- | ------- | --- | --- | ------------ | ------- | ----------- |
+| [CoronaTracker :link:](https://www.coronatracker.com) | EN, CN (planned) | Location based statistics, news, charts | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world | :x: | [:link: Link](https://www.coronatracker.com/sources) | :white_check_mark: |
+| [Coronavirus.app :link:](https://coronavirus.app) | EN | Map with locations with confirmed cases, location based data charts & statistics | :earth_asia: | [Scriby](https://scriby.ai/) from :taiwan: | :white_check_mark: | Various - Click on **Credits & sources** at the bottom of the app | :x: |
+| [the_wuhan_virus :link:](https://thewuhanvirus.com/) | EN, JP, CN | Maps, news, live data | :earth_asia: | [thebaselab](https://thebaselab.com/) from :hong_kong: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | :x: |
+| [SG Wuhan :link:](https://sgwuhan.xose.net) | EN | Map for Singapore of locations where infections were detected/traced | :singapore: | [ottokyu](https://twitter.com/ottokyu) | :x: | [Ministry of Health](https://www.moh.gov.sg/) |
+| [Coronavirus :link:](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: |
 
 ## Telegram
 
