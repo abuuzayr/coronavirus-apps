@@ -22,7 +22,8 @@ Stay safe and remember to wash your hands always.
 | [Coronavirus.app](https://coronavirus.app) | EN | Map with locations with confirmed cases, location based data charts & statistics | :earth_asia: | [Scriby](https://scriby.ai/) from :taiwan: | :white_check_mark: | Various - Click on **Credits & sources** at the bottom of the app | :x: |
 | [the_wuhan_virus](https://thewuhanvirus.com/) | EN, JP, CN | Maps, news, live data | :earth_asia: | [thebaselab](https://thebaselab.com/) from :hong_kong: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | :x: |
 | [SG Wuhan](https://sgwuhan.xose.net) | EN | Map for Singapore of locations where infections were detected/traced | :singapore: | [ottokyu](https://twitter.com/ottokyu) | :x: | [Ministry of Health](https://www.moh.gov.sg/) |
-| [Coronavirus](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: |
+| [武漢肺炎民間資訊](https://wars.vote4.hk) | ZH, EN | Live updates, info for the Situation in HK | :hong_kong: | [g0vhk](https://www.collaction.hk/s/g0vhk/fund?lang=en) :hong_kong: | :x: | [Centre for Health Protection](https://www.chp.gov.hk/tc/features/102465.html) | :x: |
+| [Coronavirus](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: | 
 
 ## Telegram
 
