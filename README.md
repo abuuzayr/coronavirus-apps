@@ -18,7 +18,7 @@ Stay safe and remember to wash your hands always.
 
 | Name & link | Lang | Summary | For | By | Subscribe | Sources | OSS |
 | ----------- | ---- | ------- | --- | --- | -------- | ------- | --- |
-| [CoronaTracker](https://www.coronatracker.com) | EN, CN (planned) | Location based statistics, news, charts | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world | :x: | [:link: Link](https://www.coronatracker.com/sources) | [:white_check_mark:](https://github.com/theleadio/coronatracker) |
+| [CoronaTracker](https://www.coronatracker.com) | EN, CN, MY | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world | :x: | [:link: Link](https://www.coronatracker.com/sources) | [:white_check_mark:](https://github.com/theleadio/coronatracker) |
 | [Coronavirus.app](https://coronavirus.app) | EN | Map with locations with confirmed cases, location based data charts & statistics | :earth_asia: | [Scriby](https://scriby.ai/) from :taiwan: | :white_check_mark: | Various - Click on **Credits & sources** at the bottom of the app | :x: |
 | [the_wuhan_virus](https://thewuhanvirus.com/) | EN, JP, CN | Maps, news, live data | :earth_asia: | [thebaselab](https://thebaselab.com/) from :hong_kong: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | :x: |
 | [SG Wuhan](https://sgwuhan.xose.net) | EN | Map for Singapore of locations where infections were detected/traced | :singapore: | [ottokyu](https://twitter.com/ottokyu) | :x: | [Ministry of Health](https://www.moh.gov.sg/) |
