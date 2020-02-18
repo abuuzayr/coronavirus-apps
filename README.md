@@ -53,7 +53,7 @@ Public groups with updates about the coronavirus
 ## :bird: Twitter
 
 | User | Description | For | Active | Lang | 
-| -------- | ----------- | --- | ------ | ---- |
+| ---- | ----------- | --- | ------ | ---- |
 | [ncov201920](https://twitter.com/ncov201920) | Hello. I am new Coronavirus nCoV 2019/2020. I was born/made in Wuhan. I like airplanes, travel, food and all things viral. Follow me and I may not chase you. | :earth_asia: | :white_check_mark: | EN |
 | [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu) | Updates, News Reports, and Articles regarding the spread of the 2019 novel Coronavirus originating in Wuhan, China. Stay up to date on the spread of the virus. | :earth_asia: | :white_check_mark: | EN |
 | [NCOVNEWS](https://twitter.com/NCOVNEWS) | #CoronaVirus ALERT⚠️ Follow us for CoronaVirus breaking news around the world | :earth_asia: | :white_check_mark: | EN |
@@ -63,7 +63,11 @@ Public groups with updates about the coronavirus
 | [coronavcharts](https://twitter.com/coronavcharts) | Your number #1 source on charts and “news” for #Coronavirus | :earth_asia: | :white_check_mark: | EN |
 | [TrackerCorona](https://twitter.com/TrackerCorona) | I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs. | :earth_asia: | :white_check_mark: | EN |
 
-## :iphone: iOS Apps
-
 ## :iphone: Android Apps
+
+| Name & link | Lang | Summary | For | By |
+| ----------- | ---- | ------- | --- | --- |
+| [CoronaVirus Tracker 2019-nCoV](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) | EN | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world |
+
+## :iphone: iOS Apps
 
