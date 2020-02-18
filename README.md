@@ -33,6 +33,7 @@ Stay safe and remember to wash your hands always.
 | [新冠肺炎疫情地图](https://news.sina.cn/zt_d/yiqing0121) | CN | Live updated statistics, maps, data and news | :cn: | [sina.cn](https://news.sina.cn/) :cn: | :white_check_mark: | National and provincial health committees | :x: | 
 | [CORONAVIRUS TRACKER](https://www.acoer.com/coronavirus.html) | EN | Data, trends, twitter analysis | :earth_asia: | [acoer](https://www.acoer.com/) :us: | :x: | Wide set of public data, including [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) & [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) | :x: |
 | [COVID19Japan](COVID19Japan.com) | EN | Maps, data, statistics, news | :jp: | [Shane Reustle](https://twitter.com/reustle), [Jiahui Zhou](https://jiahuizhou.design/) :jp: | :x: | [mhlw.co.jp](https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html), [Fukuoka Prefecture](http://www.pref.fukuoka.lg.jp/contents/corona-kokunai.html) + crowd sourced data | [:white_check_mark:](https://github.com/reustle/covid19japan) |
+| [Coronavirus Tracker](https://coronavirus.visualdatahq.com/) | EN | Visual data with forecasts | :earth_asia: | [7_select](https://www.reddit.com/user/7_select/) | :x: | [Reddit](https://redd.it/f4hmsj) and others | :x: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
