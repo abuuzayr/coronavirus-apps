@@ -72,3 +72,14 @@ Public groups with updates about the coronavirus
 
 ## :iphone: iOS Apps
 
+-----------------
+
+## :1st_place_medal: Contribute
+
+Inaccurate data, new source, or looking to add your own app?
+
+For non-developers, you may submit an issue here: [Create a new issue](https://github.com/abuuzayr/coronavirus-apps/issues/new) or email me at [abu.uzayr@builtforfifty.com](mailto:abu.uzayr@builtforfifty.com)
+
+For developers, you may do the above or submit a PR and I'll be glad to merge it!
+
+*p.s. for new devs who are looking for their first PR, this would make for an easy first one, and help the public at the same time!*
