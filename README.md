@@ -36,7 +36,7 @@ Stay safe and remember to wash your hands always.
 | [Coronavirus Tracker](https://coronavirus.visualdatahq.com/) | EN | Visual data with forecasts | :earth_asia: | [7_select](https://www.reddit.com/user/7_select/) | :x: | [Reddit](https://redd.it/f4hmsj) and others | :x: |
 | [covid19 SG](https://www.wuhanvirus.sg/) | EN | Maps, statistics, case data & tracing | :singapore: | [Upcode Academy](https://www.upcodeacademy.com/) :singapore: | :x: | [MOH](https://www.moh.gov.sg/covid-19/) | :x: |
 | [Official MOH Dashboard](https://go.gov.sg/covid-19-dashboard) | EN | Case details, statistics, announcements | :singapore: | [MOH](https://www.moh.gov.sg/covid-19/) :singapore: | :x: | [MOH](https://www.moh.gov.sg/covid-19/) | :x: |
-| [Pandemic Alert](https://pandemicalert.xyz/) | EN | Map with case statistics | :earth_asia: | [Adam Liu](https://adamliu.win/) :cn: | :white_check_mark: | :question: | :x: |
+| [Pandemic Alert](https://pandemicalert.xyz/) | EN | Map with case statistics | :earth_asia: | [Adam Liu](https://adamliu.win/) :cn: | :white_check_mark: | [:link: Link](https://github.com/CSSEGISandData/COVID-19) | :x: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
