@@ -42,6 +42,7 @@ There are also these two similar lists you should check out as well:
 | [covid19 SG](https://www.wuhanvirus.sg/) | EN | Maps, statistics, case data & tracing | :singapore: | [Upcode Academy](https://www.upcodeacademy.com/) :singapore: | :x: | [MOH](https://www.moh.gov.sg/covid-19/) | :x: |
 | [Official MOH Dashboard](https://go.gov.sg/covid-19-dashboard) | EN | Case details, statistics, announcements | :singapore: | [MOH](https://www.moh.gov.sg/covid-19/) :singapore: | :x: | [MOH](https://www.moh.gov.sg/covid-19/) | :x: |
 | [Pandemic Alert](https://pandemicalert.xyz/) | EN | Map with case statistics | :earth_asia: | [Adam Liu](https://adamliu.win/) :cn: | :white_check_mark: | [:link: Link](https://github.com/CSSEGISandData/COVID-19) | :x: |
+| [Coronavirus](https://coronavirus.john-coene.com/) | EN | Dashboard, statistics, charts, maps, API | :earth_asia: | [John Coene](https://github.com/JohnCoene) :switzerland: | :x: | [JHU](https://github.com/CSSEGISandData/2019-nCoV), [Weixin](https://github.com/GuangchuangYu/nCov2019), [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) | [:white_check_mark:](https://github.com/JohnCoene/coronavirus) |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
