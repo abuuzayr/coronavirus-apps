@@ -76,7 +76,9 @@ Public groups with updates about the coronavirus
 
 | Name & link | Lang | Summary | For | By |
 | ----------- | ---- | ------- | --- | --- |
-| [CoronaVirus Tracker 2019-nCoV](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) | EN | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world |
+| ~~[CoronaVirus Tracker 2019-nCoV](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en)~~ <sup>1</sup> | ~~EN~~ | ~~Location based statistics, news, charts, maps based dashboard~~ | ~~:earth_asia:~~ | ~~[Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world~~ |
+
+<sup>1</sup> Removed due to "_Violation of Sensitive Events policy_" :woman_shrugging:
 
 ## :iphone: iOS Apps
 
