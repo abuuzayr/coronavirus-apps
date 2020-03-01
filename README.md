@@ -43,6 +43,8 @@ There are also these two similar lists you should check out as well:
 | [Official MOH Dashboard](https://go.gov.sg/covid-19-dashboard) | EN | Case details, statistics, announcements | :singapore: | [MOH](https://www.moh.gov.sg/covid-19/) :singapore: | :x: | [MOH](https://www.moh.gov.sg/covid-19/) | :x: |
 | [Pandemic Alert](https://pandemicalert.xyz/) | EN | Map with case statistics | :earth_asia: | [Adam Liu](https://adamliu.win/) :cn: | :white_check_mark: | [:link: Link](https://github.com/CSSEGISandData/COVID-19) | :x: |
 | [Coronavirus](https://coronavirus.john-coene.com/) | EN | Dashboard, statistics, charts, maps, API | :earth_asia: | [John Coene](https://github.com/JohnCoene) :switzerland: | :x: | [JHU](https://github.com/CSSEGISandData/2019-nCoV), [Weixin](https://github.com/GuangchuangYu/nCov2019), [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) | [:white_check_mark:](https://github.com/JohnCoene/coronavirus) |
+| [新型コロナウイルス感染速報](https://covid-2019.live/) | JP | Statistics, data, maps, charts | :jp: | [Su Wei](https://swsoyee.github.io/) :cn: | :x: | [NHK](https://www3.nhk.or.jp/news/html/20200221/k10012296361000.html), [MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html) | [:white_check_mark:](https://github.com/swsoyee/2019-ncov-japan) |
+| [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/) | JP | Maps, charts | :jp: | [Kazuki OGIWARA](https://twitter.com/kaz_ogiwara) :jp: | :x: | [MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html) | [:white_check_mark:](https://github.com/kaz-ogiwara/covid19/) |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
