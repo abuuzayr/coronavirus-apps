@@ -14,6 +14,11 @@ If you are a developer, you may also be able to contribute to some of these appl
 
 Stay safe and remember to wash your hands always.
 
+There are also these two similar lists you should check out as well: 
+
+- [OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/) for Open Source Projects mainly for the Chinese
+- [OpenSourceWuhan/world](https://weileizeng.github.io/OpenSourceWuhan/world) for the world
+
 ## :computer: Web applications
 
 | Name & link | Lang | Summary | For | By | Subscribe | Sources | OSS |
