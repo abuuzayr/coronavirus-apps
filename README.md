@@ -46,6 +46,7 @@ There are also these two similar lists you should check out as well:
 | [新型コロナウイルス感染速報](https://covid-2019.live/) | JP | Statistics, data, maps, charts | :jp: | [Su Wei](https://swsoyee.github.io/) :cn: | :x: | [NHK](https://www3.nhk.or.jp/news/html/20200221/k10012296361000.html), [MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html) | [:white_check_mark:](https://github.com/swsoyee/2019-ncov-japan) |
 | [新型コロナウイルス国内感染の状況](https://toyokeizai.net/sp/visual/tko/covid19/) | JP | Maps, charts | :jp: | [Kazuki OGIWARA](https://twitter.com/kaz_ogiwara) :jp: | :x: | [MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html) | [:white_check_mark:](https://github.com/kaz-ogiwara/covid19/) |
 | [CORONAPP](http://coronapp.site/) | KR | Localised map, data, charts | :kr: | [Chung SooYoung](mailto:soorichu@gmail.com) :kr: | :x: | [CDC](http://www.cdc.go.kr/index.es?sid=a2), [질병관리본부 홈페이지](http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do), [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | [:white_check_mark:](https://github.com/soorichu/coronako) |
+| [corona.rade.ir](https://corona.rade.ir/) | FA | Map based data, numbers | :iran: | [Ehsān Forqāni](https://ehsaan.dev/) :iran: | :x: | وزارت بهداشت ایران Ministry of Health in Iran | [:white_check_mark:](https://github.com/par6n/ncov-19/) |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
