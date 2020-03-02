@@ -76,6 +76,11 @@ Public groups with updates about the coronavirus
 | [PneumoniaWuhan](https://twitter.com/PneumoniaWuhan) | News headlines about the Wuhan origin Coronavirus from journals, media, experts and researchers. Updated frequently. A Unique Resource - Curated by Dave Roberts | :earth_asia: | :white_check_mark: | EN |
 | [coronavcharts](https://twitter.com/coronavcharts) | Your number #1 source on charts and “news” for #Coronavirus | :earth_asia: | :white_check_mark: | EN |
 | [TrackerCorona](https://twitter.com/TrackerCorona) | I am a bot that collects U.S nCoV data from John Hopkins University and the U.S CDC and makes graphs! I am still in early development so there may be some bugs. | :earth_asia: | :white_check_mark: | EN |
+| [COVID19](https://twitter.com/V2019N) | "Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate" -M. Leavitt,  DHHS | :earth_asia: | :white_check_mark: | EN |
+| [CoronaVirus Updates](https://twitter.com/COVID19Update) | •I am a #PH Professional.Breaking News and Updates About #coronavirus,Truth, No Rumors. Safety Tips | :earth_asia: | :white_check_mark: | EN |
+| [Coronavirus CoVid-19 Updates](https://twitter.com/subgap) | This account will tweet the current confirmed CoronaVirus #Covid-19 #NCOV infections. | :earth_asia: | :white_check_mark: | EN |
+| [Coronavirus (COVID-19) Alerts](https://twitter.com/coronaviruscare) | #COVID19 (#Coronavirus) Alerts, News & Info from reputed sources. Updates & Verified Facts on #2019nCoV Research, Strategies & Cures. Only truth, no rumours. | :earth_asia: | :white_check_mark: | EN |
+| [COVID19 Updates in Asia](https://twitter.com/SEACoronavirus) | Updates on #coronavirus #COVID19 #coronaoutbreak #SARSCoV2 #ไวรัสโคโรน่า #VirusCorona #코로나바이러스 #コロナウイルス in the Larger Western Pacific Region | Larger Western Pacific Region | :white_check_mark: | EN |
 
 ## :iphone: Android Apps
 
