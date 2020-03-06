@@ -8,13 +8,13 @@
 
 # :mask: List of Coronavirus applications
 
-COVID-19 is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. With this list we try to compile these applications so that you may see what suits you best. 
+COVID-19 is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. With this list we try to compile these applications so that you may see what suits you best.
 
 If you are a developer, you may also be able to contribute to some of these applications.
 
 Stay safe and remember to wash your hands always.
 
-There are also these two similar lists you should check out as well: 
+There are also these two similar lists you should check out as well:
 
 - [OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/) for Open Source Projects mainly for the Chinese
 - [OpenSourceWuhan/world](https://weileizeng.github.io/OpenSourceWuhan/world) for the world
@@ -38,14 +38,14 @@ There are also these two similar lists you should check out as well:
 | [the_wuhan_virus](https://thewuhanvirus.com/) | EN, JP, CN | Maps, news, live data | :earth_asia: | [thebaselab](https://thebaselab.com/) from :hong_kong: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | :x: |
 | [SG Wuhan](https://sgwuhan.xose.net) | EN | Map for Singapore of locations where infections were detected/traced | :singapore: | [ottokyu](https://twitter.com/ottokyu) | :x: | [Ministry of Health](https://www.moh.gov.sg/) | :x: |
 | [武漢肺炎民間資訊](https://wars.vote4.hk) | ZH, EN | Live updates, info for the Situation in HK | :hong_kong: | [g0vhk](https://www.collaction.hk/s/g0vhk/fund?lang=en) :hong_kong: | :x: | [Centre for Health Protection](https://www.chp.gov.hk/tc/features/102465.html) | :x: |
-| [Coronavirus](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: | 
+| [Coronavirus](https://coronavirus.site/) | ES | News in Spanish | :colombia: | :colombia: | :x: | ? | :x: |
 | [Johns Hopkins CSSE](https://arcg.is/0fHmTX) | EN | Interactive map and live data | :earth_asia: | [John Hopkins University](https://systems.jhu.edu) from :us: | :x: |  [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases), [NHC](http://www.nhc.gov.cn/yjb/s3578/new_list.shtml) and [DXY](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) | :x: |
 | [Corona Board](http://coronaboard-env.csgy3mxprm.eu-west-1.elasticbeanstalk.com) | EN | Dashboard populated with data extracted and cleaned from WHO reports on a daily basis | :earth_asia: | [Muhammad Samer Sallam](https://my.linkedin.com/in/samer-sallam) :malaysia: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) | :x: |
 | [2019-nCoV Worldwide](https://the2019ncov.com/) | EN | Map, tweets, data, charts and timeline | :earth_asia: | [Robert Anthonie](https://github.com/sorxrob) :philippines: | :x: | [bnonews](https://bnonews.com/index.php/2020/01/timeline-coronavirus-epidemic/), [JHU](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo) | [:white_check_mark:](https://github.com/sorxrob/2019-ncov-frontend) |
 | [wuflu.live](https://wuflu.live) | EN, ZH, DE, FR, ES, IT, PB | Live updates, data, graphs, maps, live stream of China hospital progress | :earth_asia: | [_shortbread](https://www.reddit.com/user/_shortbread/) | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [ECDC](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases), [NHC](http://www.nhc.gov.cn/yjb/s3578/new_list.shtml), [DXY](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0), [QQ]() | :x: |
 | [Outbreak MY](https://www.outbreak.my/) | EN, CN, MY | Statistics, news, local information catered to Malaysia | :malaysia: | [Evozi](https://www.evozi.com/) :malaysia: | :white_check_mark: | [MOH](http://www.moh.gov.my/?utm_source=outbreak.my), [KKM](https://twitter.com/KKMPutrajaya) | :x: |
 | [Epidemic Tracker](https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV) | EN | Map, tracks active pathogens around the world | :earth_asia: | [Metabiota](http://metabiota.com/epidemic-tracker) :us: | :x: | [Metabiota](http://metabiota.com/epidemic-tracker) | :x: |
-| [新冠肺炎疫情地图](https://news.sina.cn/zt_d/yiqing0121) | CN | Live updated statistics, maps, data and news | :cn: | [sina.cn](https://news.sina.cn/) :cn: | :white_check_mark: | National and provincial health committees | :x: | 
+| [新冠肺炎疫情地图](https://news.sina.cn/zt_d/yiqing0121) | CN | Live updated statistics, maps, data and news | :cn: | [sina.cn](https://news.sina.cn/) :cn: | :white_check_mark: | National and provincial health committees | :x: |
 | [CORONAVIRUS TRACKER](https://www.acoer.com/coronavirus.html) | EN | Data, trends, twitter analysis | :earth_asia: | [acoer](https://www.acoer.com/) :us: | :x: | Wide set of public data, including [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) & [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) | :x: |
 | [COVID19Japan](COVID19Japan.com) | EN | Maps, data, statistics, news | :jp: | [Shane Reustle](https://twitter.com/reustle), [Jiahui Zhou](https://jiahuizhou.design/) :jp: | :x: | [mhlw.co.jp](https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html), [Fukuoka Prefecture](http://www.pref.fukuoka.lg.jp/contents/corona-kokunai.html) + [crowd sourced data](https://docs.google.com/spreadsheets/d/1jfB4muWkzKTR0daklmf8D5F0Uf_IYAgcx_-Ij9McClQ/edit) | [:white_check_mark:](https://github.com/reustle/covid19japan) |
 | [Coronavirus Tracker](https://coronavirus.visualdatahq.com/) | EN | Visual data with forecasts | :earth_asia: | [7_select](https://www.reddit.com/user/7_select/) | :x: | [Reddit](https://redd.it/f4hmsj) and others | :x: |
@@ -58,12 +58,13 @@ There are also these two similar lists you should check out as well:
 | [CORONAPP](http://coronapp.site/) | KR | Localised map, data, charts | :kr: | [Chung SooYoung](mailto:soorichu@gmail.com) :kr: | :x: | [CDC](http://www.cdc.go.kr/index.es?sid=a2), [질병관리본부 홈페이지](http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do), [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | [:white_check_mark:](https://github.com/soorichu/coronako) |
 | [corona.rade.ir](https://corona.rade.ir/) | FA | Map based data, numbers | :iran: | [Ehsān Forqāni](https://ehsaan.dev/) :iran: | :x: | وزارت بهداشت ایران Ministry of Health in Iran | [:white_check_mark:](https://github.com/par6n/ncov-19/) |
 | [Coronavirus Tracker](https://visalist.io/emergency/coronavirus) | EN | Map based data, statistics, travel advisory | :earth_asia: | [HaKr from Visa List](https://twitter.com/1HaKr) :australia: | :x: | Various - Click on :information_source: icon on the menu | :x: |
+| [covid](https://github.com/lifen-labs/covid) | FR | Covid-19 patients' self-monitoring app via forms sent by SMS | :earth_asia: | [Pr Philippe Ravaud](http://www.mastercer.com/home/professors/professor-ravaud/) & [Lifen](https://www.lifen.fr/international/en) :france: | :x: | [:link: Link](https://github.com/lifen-labs/covid) | [:white_check_mark:](https://github.com/lifen-labs/covid) |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
 Public groups with updates about the coronavirus
 
-| Group name | Link | For | Active | Lang | 
+| Group name | Link | For | Active | Lang |
 | ---------- | ---- | --- | ------ | ---- |
 | CoronaTracker-Public | https://t.me/coronatracker_public | :earth_asia: | :white_check_mark: | EN |
 | SG Fight Coronavirus | https://t.me/sgFight | :singapore: | :white_check_mark: | EN |
@@ -77,7 +78,7 @@ Public groups with updates about the coronavirus
 
 ## :bird: Twitter
 
-| User | Description | For | Active | Lang | 
+| User | Description | For | Active | Lang |
 | ---- | ----------- | --- | ------ | ---- |
 | [ncov201920](https://twitter.com/ncov201920) | Hello. I am new Coronavirus nCoV 2019/2020. I was born/made in Wuhan. I like airplanes, travel, food and all things viral. Follow me and I may not chase you. | :earth_asia: | :white_check_mark: | EN |
 | [CoronaVirusFlu](https://twitter.com/CoronaVirusFlu) | Updates, News Reports, and Articles regarding the spread of the 2019 novel Coronavirus originating in Wuhan, China. Stay up to date on the spread of the virus. | :earth_asia: | :white_check_mark: | EN |
