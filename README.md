@@ -96,15 +96,24 @@ Public groups with updates about the coronavirus
 
 ## :iphone: Android Apps
 
+If you were thinking of making an Android App for the Play Store, do note that due to their [Sensitive Events policy](https://play.google.com/about/restricted-content/inappropriate-content/#!?zippy_activeEl=sensitive-events#sensitive-events) they have taken down several apps related to COVID-19
+
 | Name & link | Lang | Summary | For | By |
 | ----------- | ---- | ------- | --- | --- |
-| [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US) | KO | 코백 - 코로나맵 정보 알림 서비스 | :kr: | [(주)티나쓰리디](http://www.tina3d.com) |
+| [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US) | KO | 코백 - 코로나맵 정보 알림 서비스 | :kr: | [(주)티나쓰리디](http://www.tina3d.com) :kr: |
 | ~~[Coronavirus Tracker - latest information and news](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker)~~<sup>1</sup> | ~~EN~~ | ~~Statistics, map of cases~~ | ~~:earth_asia:~~ | ~~[Rayan Yessou](https://github.com/R4yGM) :it:~~ |
 | ~~[CoronaVirus Tracker 2019-nCoV](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en)~~ <sup>1</sup> | ~~EN~~ | ~~Location based statistics, news, charts, maps based dashboard~~ | ~~:earth_asia:~~ | ~~[Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world~~ |
 
 <sup>1</sup> Removed due to "_Violation of Sensitive Events policy_" :woman_shrugging:
 
 ## :iphone: iOS Apps
+
+If you were thinking of making an iOS App for the App Store, do read this: [Apple is rejecting coronavirus apps that aren't from health organizations](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html)
+
+| Name & link | Lang | Summary | For | By |
+| ----------- | ---- | ------- | --- | --- |
+| [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | EN, AR, FR, KO, PT, zh-CN, ES | Coronavirus (COVID-19) Updates | :earth_asia: | [Unbound Medicine, Inc.](https://relief.unboundmedicine.com/relief) :us: |
+| [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | EN | Corona virus tracker | :earth_asia: | [HealthLynked Corp.](https://www.healthlynked.com/) :us: |
 
 -----------------
 
