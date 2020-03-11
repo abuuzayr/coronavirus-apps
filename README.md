@@ -59,6 +59,7 @@ There are also these two similar lists you should check out as well:
 | [corona.rade.ir](https://corona.rade.ir/) | FA | Map based data, numbers | :iran: | [Ehsān Forqāni](https://ehsaan.dev/) :iran: | :x: | وزارت بهداشت ایران Ministry of Health in Iran | [:white_check_mark:](https://github.com/par6n/ncov-19/) |
 | [Coronavirus Tracker](https://visalist.io/emergency/coronavirus) | EN | Map based data, statistics, travel advisory | :earth_asia: | [HaKr from Visa List](https://twitter.com/1HaKr) :australia: | :x: | Various - Click on :information_source: icon on the menu | :x: |
 | [covid](https://github.com/lifen-labs/covid) | FR | Covid-19 patients' self-monitoring app via forms sent by SMS | :earth_asia: | [Pr Philippe Ravaud](http://www.mastercer.com/home/professors/professor-ravaud/) & [Lifen](https://www.lifen.fr/international/en) :fr: | :x: | [:link: Link](https://github.com/lifen-labs/covid) | [:white_check_mark:](https://github.com/lifen-labs/covid) |
+| [Outbreak map of novel coronavirus 2019-nCoV](https://coronavirus.zone/) | EN | Real time outbreak heat map | :earth_asia: | [Anton Lukin](https://lukin.me/) :ru: & [contributors](https://github.com/antonlukin/2019-nCoV/graphs/contributors) | :x: | [JHU](https://systems.jhu.edu/research/public-health/ncov/) | [:white_check_mark:](https://github.com/antonlukin/2019-nCoV) |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
