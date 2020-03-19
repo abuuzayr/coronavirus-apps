@@ -103,6 +103,7 @@ If you were thinking of making an Android App for the Play Store, do note that d
 | Name & link | Lang | Summary | For | By |
 | ----------- | ---- | ------- | --- | --- |
 | [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;hl=en_US) | KO | 코백 - 코로나맵 정보 알림 서비스 | :kr: | [(주)티나쓰리디](http://www.tina3d.com) :kr: |
+| [Virus Ticker Widget](https://github.com/MG-ng/Virus-Ticker-Widget) | EN | Widget to display the amount of recovered/death/confirmed infected people of a country on the homescreen | :earth_asia: | [MG-ng](https://github.com/MG-ng) :de: |
 | [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker)<sup>1</sup> | EN | Statistics, map of cases | :earth_asia: | [Rayan Yessou](https://github.com/R4yGM) :it: |
 | [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) <sup>1</sup> | EN | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world |
 
