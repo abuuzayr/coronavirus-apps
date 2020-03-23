@@ -16,8 +16,7 @@ Stay safe and remember to wash your hands always.
 
 There are also these two similar lists you should check out as well:
 
-- [OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/) for Open Source Projects mainly for the Chinese
-- [OpenSourceWuhan/world](https://weileizeng.github.io/OpenSourceWuhan/world) for the world
+- [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) for Open Source Projects all around the world
 
 ### Categories
 
