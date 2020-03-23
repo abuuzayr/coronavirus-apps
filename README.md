@@ -14,9 +14,10 @@ If you are a developer, you may also be able to contribute to some of these appl
 
 Stay safe and remember to wash your hands always.
 
-There are also these two similar lists you should check out as well:
+There are also these two extensive lists you should check out as well:
 
 - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) for Open Source Projects all around the world
+- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) for Useful projects and resources for COVID-19
 
 ### Categories
 
