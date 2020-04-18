@@ -66,6 +66,7 @@ There are also these two extensive lists you should check out as well:
 | [Map, Dashboard, Historical Charts, Travel Restrictions](https://www.routitude.com/map/covid) | EN | Real-time Dashboard, Interactive Map, Historical Trends, Travel Restrictions for Each Country | :earth_asia: | [Routitude](https://www.routitude.com/map/covid) | :x: | [JHU](https://systems.jhu.edu/research/public-health/ncov/), Wikipedia | :x: |
 | [Koronavirüs Dünya Haritası](https://ozdemirburak.com/koronavirus-haritasi) | TR | Dashboard and maps in Turkish | :tr: | [Burak Özdemir](https://ozdemirburak.com) :tr: | :x: | [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) | :x: |
 | [COVID-19 PH](https://covid19ph.com/) | EN | Statistics, case data, news, charts, maps | :philippines: | [Ralph Tan Ceriaco & team](https://covid19ph.com/about) :philippines: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), [DOH](https://ncovtracker.doh.gov.ph/), [CoronaTracker](https://coronatracker.com), [r/Coronavirus_PH](https://www.reddit.com/r/Coronavirus_PH/) and Int./Local media organizations | :x: |
+| [Koronavirüs Dünya Haritası](https://ozdemirburak.com/koronavirus-haritasi) | TR | Dashboard and maps in Turkish | :tr: | [Burak Özdemir](https://ozdemirburak.com) :tr: | :x: | [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) | :x: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
@@ -82,6 +83,8 @@ Public groups with updates about the coronavirus
 | SG-Wuhan 2019-nCoV Watchgroup | https://t.me/SGWuhan2019nCoV | :singapore: | :white_check_mark: | EN |
 | SG Wuhan Coronavirus Info Group | https://t.me/SGWuhanCoronaVirusNews | :singapore: | :white_check_mark: | EN |
 | Wuhan Quarantine #nCoV #武汉封城 | https://t.me/wuhanquarantinefrom20200123 | :cn: | :white_check_mark: | CN |
+| Corona Virus 🦠| https://t.me/NovelCoronaVirusBot | :ru: | :white_check_mark: | RU |
+
 
 ## :bird: Twitter
 
