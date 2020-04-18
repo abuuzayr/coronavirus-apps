@@ -67,6 +67,7 @@ There are also these two extensive lists you should check out as well:
 | [Koronavirüs Dünya Haritası](https://ozdemirburak.com/koronavirus-haritasi) | TR | Dashboard and maps in Turkish | :tr: | [Burak Özdemir](https://ozdemirburak.com) :tr: | :x: | [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) | :x: |
 | [COVID-19 PH](https://covid19ph.com/) | EN | Statistics, case data, news, charts, maps | :philippines: | [Ralph Tan Ceriaco & team](https://covid19ph.com/about) :philippines: | :x: | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), [DOH](https://ncovtracker.doh.gov.ph/), [CoronaTracker](https://coronatracker.com), [r/Coronavirus_PH](https://www.reddit.com/r/Coronavirus_PH/) and Int./Local media organizations | :x: |
 | [Koronavirüs Dünya Haritası](https://ozdemirburak.com/koronavirus-haritasi) | TR | Dashboard and maps in Turkish | :tr: | [Burak Özdemir](https://ozdemirburak.com) :tr: | :x: | [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) | :x: |
+| [Koronavirüs Dünya Haritası](https://yandex.ru/web-maps/covid19) | RU | Dashboard and maps developed and maintained by Yandex | :ru: | [Yandex Maps](https://en.wikipedia.org/wiki/Yandex_Maps) :ru: | :x: | [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) | :x: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
@@ -83,7 +84,7 @@ Public groups with updates about the coronavirus
 | SG-Wuhan 2019-nCoV Watchgroup | https://t.me/SGWuhan2019nCoV | :singapore: | :white_check_mark: | EN |
 | SG Wuhan Coronavirus Info Group | https://t.me/SGWuhanCoronaVirusNews | :singapore: | :white_check_mark: | EN |
 | Wuhan Quarantine #nCoV #武汉封城 | https://t.me/wuhanquarantinefrom20200123 | :cn: | :white_check_mark: | CN |
-| Corona Virus 🦠| https://t.me/NovelCoronaVirusBot | :ru: | :white_check_mark: | RU |
+| Corona Virus| https://t.me/NovelCoronaVirusBot | :ru: | :white_check_mark: | RU |
 
 
 ## :bird: Twitter
@@ -114,6 +115,9 @@ If you were thinking of making an Android App for the Play Store, do note that d
 | [Virus Ticker Widget](https://github.com/MG-ng/Virus-Ticker-Widget) | EN | Widget to display the amount of recovered/death/confirmed infected people of a country on the homescreen | :earth_asia: | [MG-ng](https://github.com/MG-ng) :de: |
 | [~~Coronavirus Tracker - latest information and news~~](https://play.google.com/store/apps/details?id=com.R4yan.CoronavirusTracker)<sup>1</sup> | EN | Statistics, map of cases | :earth_asia: | [Rayan Yessou](https://github.com/R4yGM) :it: |
 | [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) <sup>1</sup> | EN | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world |
+| [TraceTogether](https://github.com/opentrace-community/opentrace-android) | EN | C Reference implementation of the BlueTrace protocol. | :singapore: | [Governmental Digital Services](https://bluetrace.io) | 
+| [Timely Mask Map app](https://play.google.com/store/apps/details?id=com.enping.mask&hl=en_US) | TW | Instantly check the inventory of masks around the pharmacy. | :taiwan: | [Hsieh, En-Ping](https://www.linkedin.com/in/en-ping-hsieh-7519a087/) | 
+
 
 <sup>1</sup> Removed due to "_Violation of Sensitive Events policy_" :woman_shrugging:
 
@@ -126,8 +130,15 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 | [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | EN, AR, FR, KO, PT, zh-CN, ES | Coronavirus (COVID-19) Updates | :earth_asia: | [Unbound Medicine, Inc.](https://relief.unboundmedicine.com/relief) :us: |
 | [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | EN | Corona virus tracker | :earth_asia: | [HealthLynked Corp.](https://www.healthlynked.com/) :us: |
 | [CoronaTracker](https://github.com/MhdHejazi/Corona)<sup>1</sup> | EN | Coronavirus tracker app for iOS & macOS with map & charts | :earth_asia: | [Mhd Hejazi](https://samabox.com/) | 
+| [TraceTogether](https://github.com/opentrace-community/opentrace-ios)| EN | C Reference implementation of the BlueTrace protocol. | :singapore: | [Governmental Digital Services](https://bluetrace.io) | 
 
 <sup>1</sup> Not available on App Store due to Apple's policies :woman_shrugging:
+
+## :cn: mini-apps 
+| Name & link  | Summary | For | By |
+| ----------- | ------- | --- | --- |
+| Tencent Health| This health portal, accessible via the Wallet in WeChat| :cn: | Tencent|
+
 
 -----------------
 
