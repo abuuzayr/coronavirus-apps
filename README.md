@@ -70,6 +70,7 @@ There are also these two extensive lists you should check out as well:
 | [ECK-CoronaMap](http://arcane-sierra-73158.herokuapp.com/) | TR, EN | Downloadable graphics in desired format for each country and situation, map view and filter data by time. | :earth_asia: | [Emin Can Kırmızı](http://arcane-sierra-73158.herokuapp.com/) :tr: | :x: | [covid-19-api](https://coronavirus-19-api.herokuapp.com/countries), [wuhan-coronavirus-api](https://wuhan-coronavirus-api.laeyoung.endpoint.ainize.ai/jhu-edu/timeseries) | :x: |
 | [Карта распространения короновируса](https://yandex.ru/web-maps/covid19) | RU | Dashboard and maps developed and maintained by Yandex | :ru: | [Yandex Maps](https://en.wikipedia.org/wiki/Yandex_Maps) :ru: | :x: | [Роспотребнадзор](https://www.rospotrebnadzor.ru), [JHU](https://coronavirus.jhu.edu/map.html) | :x: |
 | [COVID-19 Philippines](https://covid19stats.ph/) | EN | Charts, statistics, comparative statistics, news | :philippines: | [Mikko Gozalo](https://twitter.com/mikkogozalo), [Cecile Maris](https://twitter.com/cecilemaris), [Martin Gozalo](https://twitter.com/cmgozalo) :philippines: | :x: | [DOH nCoV Tracker](https://ncovtracker.doh.gov.ph/), [JHU](https://coronavirus.jhu.edu/map.html) | :x: |
+| [covidvisual](https://app.covidvisual.com/) | EN | APIs, charts, statistics by state | :south_africa: | [Jannik Richter](https://github.com/nikrich) :south_africa: | :x: | [DSFSI](https://github.com/dsfsi/covid19za) | :x: |
 
 ## :speech_balloon:	Telegram / WhatsApp
 
