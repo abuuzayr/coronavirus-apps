@@ -1,4 +1,5 @@
 
+
 <p>
   <sub>
     If you are somehow confused by the terms <em>Coronavirus</em>, <em>COVID-19</em> or that we are currently experiencing a widespread epidemic, do get some background here: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organisation - Novel coronavirus (COVID-19)</a>
@@ -122,7 +123,7 @@ If you were thinking of making an Android App for the Play Store, do note that d
 | [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&hl=en) <sup>1</sup> | EN | Location based statistics, news, charts, maps based dashboard | :earth_asia: | [Dr. Lau Cher Han](http://www.cherhan.net/) :malaysia: with volunteers from around the world |
 | [TraceTogether](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en_SG) | EN | Supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing. | :singapore: | [Government Digital Services](https://www.hive.gov.sg/) |
 | [Timely Mask Map app](https://play.google.com/store/apps/details?id=com.enping.mask&hl=en_US) | TW | Instantly check the inventory of masks around the pharmacy. | :taiwan: | [Hsieh, En-Ping](https://www.linkedin.com/in/en-ping-hsieh-7519a087/) | 
-| [TracePinas](https://github.com/forceporquillo/android-covid19-tracker) | EN | Data visualization of each country using graph and charts. Maps to provide seamless hover to different affected countries and provinces. News from local media providers specificially to give updates to every Filipinos. | :philippines: | [Force Porquillo](https://www.instagram.com/strongforce1) |
+| [TracePinas](https://github.com/forceporquillo/android-covid19-tracker) | EN | Data visualization of each country using graphs and charts maps to provide seamless hover to different affected cities and provinces. News from local media providers specifically gives updates to each Filipino. | :philippines: | [Force Porquillo](https://www.instagram.com/strongforce1) |
 
 
 
